@@ -73,6 +73,7 @@
                 placeholder="Cari nama produk"
               />
             </div>
+            <div class="overflow-x-auto">
             <table class="table">
               <thead>
                 <tr>
@@ -115,6 +116,7 @@
                 </template>
               </tbody>
             </table>
+          </div>
           </div>
         </div>
       </div>
